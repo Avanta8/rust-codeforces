@@ -1,0 +1,12 @@
+/target
+/Cargo.lock
+
+/.rch
+/inputs
+
+/output
+
+/rch.*
+/rch
+
+/template
