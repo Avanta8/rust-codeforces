@@ -1,8 +1,7 @@
-[[bin]]
-name = "917b"
-path = "problems/working/917/B.rs"
+bin = []
 
 [dependencies]
+lazy_static = "1.4.0"
 memoise = "0.3.2"
 rustc-hash = "1.1.0"
 
